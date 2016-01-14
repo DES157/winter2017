@@ -1,19 +1,19 @@
 GitHub Pages
 ============
 
-
 These steps should get your web page hosted on GitHub Pages. But before you do you should set up Git as described [here](GitBasics)
 
 1. Make sure all of your files are in a folder (e.g. named `ex1`).
 
     From Terminal (OS X) or Git Bash (Windows) change to that directory:
 
-    ```
+    ```bash
     cd path/to/ex1
     ```
 
-2. As demonstrated in class, create a new repository on GitHub by following the instructions on [Creating a new repository](https://help.github.com/articles/creating-a-new-repository/). Make repository _public_ and do not choose any of the other options.
+   Note: you will need to replace `path/to/ex1` with the actual path to the directory containing your files. E.g. `cd ~/Desktop/ex1` if the directory is on your desktop.
 
+2. As demonstrated in class, create a new repository on GitHub by following the instructions on [Creating a new repository](https://help.github.com/articles/creating-a-new-repository/). Make repository _public_ and do not choose any of the other options.
 
 3. Follow instructions on [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/).
 
@@ -21,7 +21,7 @@ These steps should get your web page hosted on GitHub Pages. But before you do y
 
     Assuming you are in the `ex1` directory, the following should do the trick. Just make sure to insert your user name where appropriate:
 
-    ```
+    ```bash
     git init
     git add .
     git commit -m "Initial commit"
@@ -32,7 +32,10 @@ These steps should get your web page hosted on GitHub Pages. But before you do y
 
     Note: if you are using a Mac execute the following line before the above block of code:
     
-    ```
+    ```bash
     echo .DS_Store > .gitignore
     ```
+
+    Options: after running `git add .` try `git status` to see that your files are listed under "Changes to be committed"
+
 
