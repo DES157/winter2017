@@ -11,7 +11,7 @@ These steps should get your web page hosted on GitHub Pages. But before you do y
     cd path/to/ex1
     ```
 
-   Note: you will need to replace `path/to/ex1` with the actual path to the directory containing your files. E.g. `cd ~/Desktop/ex1` if the directory is on your desktop.
+   Note: you will need to replace `path/to/ex1` with the actual path to the directory containing your files. E.g. `cd ~/Desktop/ex1` if the directory is on your desktop. Type `ls` to see that your files are there.
 
 2. As demonstrated in class, create a new repository on GitHub by following the instructions on [Creating a new repository](https://help.github.com/articles/creating-a-new-repository/). Make repository _public_ and do not choose any of the other options.
 
