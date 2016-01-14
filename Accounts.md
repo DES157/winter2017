@@ -1,12 +1,4 @@
 Portal Links
 ============
 
-Following my example, edit this wiki page to link to your portal once it's up on GitHub.
-
-
-Portal Links
-------------
-
-* [Spencer](https://spencermathews.github.io/ex1/index.html)
-* [Your Name](https://your_github_user_name.github.io/ex1/)
-
+Please fill out this [form](https://docs.google.com/forms/d/114ejiQNE6rxdEqqXBhyFEPx3L_HIoxoYx1GjLEMpInY/viewform) so we can add links to everyone's portal here.
