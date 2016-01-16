@@ -1,7 +1,7 @@
 GitHub Pages
 ============
 
-These steps should get your web page hosted on GitHub Pages. But before you do you should set up Git as described [here](GitBasics)
+These steps should get your web page hosted on GitHub Pages. But before you do you should set up Git as described [here](GitSetup)
 
 1. Make sure all of your files are in a folder (e.g. named `ex1`).
 
