@@ -7,4 +7,9 @@ Follow these [instructions](GitHubPages) to create a repo named `ex1` to host yo
 
 #### Schedule
 
+![GradingSchedule](images/GradingScheduleEarly.png)
+
 ![GradingSchedule](images/GradingSchedule.png)
+
+
+
