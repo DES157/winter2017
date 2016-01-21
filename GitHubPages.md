@@ -4,11 +4,11 @@ GitHub Pages
 Host Web Pages On GitHub
 ------------------------
 
-These instructions should get your web page hosted on GitHub Pages. This process only needs to be followed once for your initial setup. If your files are already on GitHub jump to [here](#If your site is already managed by Git).
+These instructions should get your web page hosted on GitHub Pages. This process only needs to be followed once for your initial setup.
 
 #### Starting from scratch
 
-We will assume that your code is not yet under version control.
+We will assume that your code is not yet under version control. If it is then skip to the section below.
 
 Before you follow these steps you should set up Git as described [here](GitSetup).
 
@@ -76,7 +76,7 @@ git push -u origin gh-pages
 
 #### Updating your code
 
-Once your repository is set up and synchronized with GitHub see this simple [workflow](GitBasics#A Simple Workflow) for taking snapshots of your code and pushing changes to GitHub.
+Once your repository is set up and synchronized with GitHub see this simple [workflow](GitBasics) for taking snapshots of your code and pushing changes to GitHub.
 
 ---
 

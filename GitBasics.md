@@ -12,7 +12,7 @@ There are tons of Git learning resources available online, but here are a few to
 
 
 A Simple Workflow
-----------------
+-----------------
   
 Once your file are on GitHub (see instructions [here](GitHubPages)) updating them is very simple. Before you start, open a terminal and `cd`  to your project directory. You should already be on the `gh-pages` branch, but make sure.
 
