@@ -1,8 +1,12 @@
 GitHub Pages
 ============
 
+Host Web Pages On GitHub
+------------------------
 
-These instructions should get your web page hosted on GitHub Pages.
+These instructions should get your web page hosted on GitHub Pages. This process only needs to be followed once for your initial setup. If your files are already on GitHub jump to [here](#If your site is already managed by Git).
+
+#### Starting from scratch
 
 We will assume that your code is not yet under version control.
 
@@ -30,11 +34,11 @@ Before you follow these steps you should set up Git as described [here](GitSetup
 
     ```bash
     git init
+    git checkout --orphan gh-pages
     git add .
     git commit -m "Initial commit"
     git remote add origin https://github.com/johndoe/ex1.git
-    git checkout -b gh-pages
-    git push --all -u origin
+    git push -u origin gh-pages
     ```
 
     Note: if you are using a Mac execute the following line before the above block of code (this will cause Git to ignore unnecessary `.DS_Store` files):
@@ -45,11 +49,11 @@ Before you follow these steps you should set up Git as described [here](GitSetup
     
     Your site should now be available on the web at `http://johndoe.github.io/ex1`
 
-    Note: When you host a project site with GitHub Pages (as opposed)
+    Note: When you host a project site with GitHub Pages the files in the the `gh-pages` branch are served as a web site at `http://USERNAME.github.io/REPO`.
 
     Optional: after running `git add .` try `git status` to see that your files are listed under "Changes to be committed"
     
-##### If your site is already managed by Git
+#### If your site is already managed by Git
 
 The above instructions take you through the process of creating a new repository from scratch. If you are already using Git to manage your code on your local computer then all you need to do is:
 
@@ -67,6 +71,22 @@ The above instructions take you through the process of creating a new repository
 
 ```bash
 git remote add origin https://github.com/johndoe/myrepo.git
-git push --all -u origin
+git push -u origin gh-pages
 ```
+
+#### Updating your code
+
+Once your repository is set up and synchronized with GitHub see this simple [workflow](GitBasics#A Simple Workflow) for taking snapshots of your code and pushing changes to GitHub.
+
+---
+
+Hints
+-----
+##### Link to your page from repo
+
+At the top of your repository page on GitHub (URL like `https://github.com/USERNAME/REPO`) you can click `Edit` (_No description or website provided_. — Edit) and add the URL of the correponding web site (`https://USERNAME.github.io/REPO/index.html`)
+
+##### Considerations
+
+You use the command `git pull` to bring changes from your remote repsitory (in this case GitHub) into your local repository. When you are working on a project alone and from only one computer you may not ever have to pull, but if you are collaborating with others you should do this often.
 
