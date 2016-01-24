@@ -7,5 +7,7 @@ Welcome to the DES 157 wiki!
 
 ### Resources
 
-* [Setting up GitHub Pages](GitHubPages)
 * [How To Use the Command Line](CommandLineBasics)
+* [Setting up GitHub Pages](GitHubPages)
+* [Git Basics](GitBasics)
+

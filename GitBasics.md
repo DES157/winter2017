@@ -14,7 +14,7 @@ There are tons of Git learning resources available online, but here are a few to
 A Simple Workflow
 -----------------
   
-Once your file are on GitHub (see instructions [here](GitHubPages)) updating them is very simple. Before you start, open a terminal and `cd`  to your project directory. You should already be on the `gh-pages` branch, but make sure.
+Once your file are on GitHub (see instructions [here](GitHubPages)) updating them is very simple. Before you start, open a terminal and `cd`  to your project directory. You should already be on the `gh-pages` branch (to make sure do `git branch`, `gh-pages` should be listed and it should have a `*` by it).
 
 1. See what has changed:
 
@@ -49,26 +49,4 @@ Once your file are on GitHub (see instructions [here](GitHubPages)) updating the
     ```bash
     git push
     ```
-    
-
- 
- 
-Branches
---------
-
-Git tracks the history 
- 
-
-
-
-Remotes
--------
-
-
-##### How do I change 
-
-```
-git remote rm origin
-```
-
 
