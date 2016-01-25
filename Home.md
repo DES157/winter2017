@@ -3,7 +3,7 @@ Welcome to the DES 157 wiki!
 ### Class Management
 
 * [Interactive Grading Schedule](Grading)
-* [Student Portals](PoralLinks)
+* [Student Portals](PortalLinks)
 
 ### Resources
 
