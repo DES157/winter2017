@@ -90,3 +90,10 @@ At the top of your repository page on GitHub (URL like `https://github.com/USERN
 
 You use the command `git pull` to bring changes from your remote repsitory (in this case GitHub) into your local repository. When you are working on a project alone and from only one computer you may not ever have to pull, but if you are collaborating with others you should do this often.
 
+
+Troubleshooting
+---------------
+
+##### Javascript security
+
+Security settings can prevent secure websites (`https://...`) from loading insecure content (references to `http://...`). This can lead to apparent bugs such as scripts not loading as expected. Fix this by either loading your page as `https` instead of `https`, or make sure that in your `html` you load all scripts as `https`.

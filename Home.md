@@ -10,4 +10,4 @@ Welcome to the DES 157 wiki!
 * [How To Use the Command Line](CommandLineBasics)
 * [Setting up GitHub Pages](GitHubPages)
 * [Git Basics](GitBasics)
-
+* [Best Practices](BestPractices)
