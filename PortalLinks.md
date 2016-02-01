@@ -7,7 +7,7 @@ If you do not see your name here please fill out this [form](https://docs.google
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/choitiffany)	[Choi, Tiffany](http://choitiffany.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/mcolato8)	[Colato-Ochoa, Michelle](http://mcolato8.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/srujanada)	[Danda, Srujanada](http://srujanada.github.io/ex1/)  
- [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/bdankul)	[Dankongkakul, Belle](http://bdankul.github.io/portal)  
+ [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/bdankul)	[Dankongkakul, Belle](http://bdankul.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/mndoyle)	[Doyle, Mary](http://mndoyle.github.io/ex1/)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/cagong)	[Gong, Candy](http://cagong.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/jameskim1093)	[Kim, James](http://jameskim1093.github.io/ex1/index.html)  
