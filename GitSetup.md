@@ -10,11 +10,13 @@ Setting up Git
 
 ### Setting Variables
 
-Before you begin it's good to let Git know who you are.  From Terminal (OS X) or Git Bash (Windows) type these commands with your information:
+Before you begin it's good to let Git know who you are.  From Terminal (OS X) or Git Bash (Windows) type these commands, but with your information instead of John Doe's:
 
-```
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
-```
+    git config --global user.name "John Doe"
+    git config --global user.email johndoe@example.com
+
+You should also run this command to properly set `push` behavior (don't worry if this does't make sense right now):
+
+    git config --global push.default simple
 
 See [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) for more details.
