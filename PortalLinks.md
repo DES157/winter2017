@@ -17,10 +17,11 @@ If you do not see your name here please fill out this [form](https://docs.google
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/samanning)	[Manning, Samantha](http://samanning.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/ashleypae)	[Pae, Ashley](http://ashleypae.github.io/ex1/)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/mspaikman)	[Paik, Kaitlyn](http://mspaikman.github.io/ex1/portal.html)  
+ [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/agpryor)	[Pryor, Austin](http://agpryor.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/dereyes)	[Reyes, Darin](http://dereyes.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/tjrodman)	[Rodman, Tanya](http://tjrodman.github.io/ex1/index.html)  
- [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/tmshih21)	[Shih, Tammy](http://tmshih21.github.io/ex1/index.html)  
-  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/)	[Soehnlein, Patrice](http://soehnlein.github.io/ex1/)  
+ [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/shihtammy)	[Shih, Tammy](http://shihtammy.github.io/ex1/index.html)  
+ [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/soehnlein)	[Soehnlein, Patrice](http://soehnlein.github.io/ex1/)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/alitang)	[Tang, Alicia](http://alitang.github.io/ex1)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/atonnu)	[Tonnu, Andie](http://atonnu.github.io/ex1/)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/ertran)	[Tran, Eric](http://ertran.github.io/Ex1/index.html)  
@@ -28,4 +29,3 @@ If you do not see your name here please fill out this [form](https://docs.google
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/sheilatuldanes)	[Tuldanes, Sheila](http://sheilatuldanes.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/mavillas)	[Villas, Michael](http://mavillas.github.io/ex1/)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/tdiwenocur)	[Wenocur, Danielle](http://tdiwenocur.github.io/ex1/index.html)  
-
