@@ -9,44 +9,63 @@ There are tons of Git learning resources available online, but here are a few to
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [Git for Beginners](http://www.sitepoint.com/git-for-beginners/)
 
+##### Good Style
+
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+
+##### Git for Education
+
+- [Using Git in the classroom](https://opensource.com/education/16/1/git-education-classroom)
+
 
 
 A Simple Workflow
 -----------------
   
-Once your file are on GitHub (see instructions [here](GitHubPages)) updating them is very simple. Before you start, open a terminal and `cd`  to your project directory. You should already be on the `gh-pages` branch (to make sure do `git branch`, `gh-pages` should be listed and it should have a `*` by it).
+Once your file are on GitHub (see instructions [here](GitHubPages)) updating them is very simple. The basic process is to _add_ changes to the staging area, _commit_ the changes locally, then _push_ the updates to your remote repository (e.g. GitHub).
+
+Before you start, open a terminal and `cd`  to your project directory (e.g. `cd ~/Desktop/des157/ex1`). __It is important that you issue all git commands from within the proper directory!__ You should already be on the `gh-pages` branch (to make sure do `git branch`, `gh-pages` should be listed and it should have a `*` by it).
 
 1. See what has changed:
 
-    ```bash
-    git status
-    ```
+        git status
     
     This will list modified files under `Changes not staged for commit`. You can optionally run `git diff` to see exactly what has changed. 
     
     If you have added a new file it will show up under `Untracked files`. This means that Git does not yet know to keep an eye on that file.
     
-2. Choose which modified files you would like to add to the next commit, or which new files you would like to start tracking:
+2. If you would like to stage all file modifications, additions, and deletions then you can simply do:
 
-    ```bash
-    git add FILE
-    ```
+        git add .
 
-    If you would like to stage all file modifications, additions, and deletions then you can simply do:
-
-    ```bash
-    git add .
-    ```
-
-3. Commit your files locally
     
-    ```bash
-    git commit -m "Your message here"
-    ```
+    Alternatively, you can individually choose which modified files you would like to add to the next commit, or which new files you would like to start tracking:
+
+        git add FILE
+
+3. Commit your files locally, providing a brief but informative message summarizing the changes you made:
     
-4. Push your files to GitHub
+        git commit -m "Your message here"
 
-    ```bash
-    git push
-    ```
+4. Push your files to GitHub:
 
+        git push
+
+How To
+------
+
+#### Moving Files
+
+The proper way to move or rename files with git is:
+
+    git mv <source> <destination>
+
+Then `commit` and `push` as usual.
+
+#### Deleting Files
+
+Tell git you would like to delete a file from your repository:
+
+    git rm <file>
+
+Then `commit` and `push` as usual.
