@@ -24,6 +24,8 @@ A Simple Workflow
   
 Once your file are on GitHub (see instructions [here](GitHubPages)) updating them is very simple. The basic process is to _add_ changes to the staging area, _commit_ the changes locally, then _push_ the updates to your remote repository (e.g. GitHub).
 
+__Important: Do not edit your files directly on the GitHub website!__
+
 Before you start, open a terminal and `cd`  to your project directory (e.g. `cd ~/Desktop/des157/ex1`). __It is important that you issue all git commands from within the proper directory!__ You should already be on the `gh-pages` branch (to make sure do `git branch`, `gh-pages` should be listed and it should have a `*` by it).
 
 1. See what has changed:
