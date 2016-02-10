@@ -62,7 +62,7 @@ The above instructions take you through the process of creating a new repository
 
         git checkout -b gh-pages
     
-    Note: make sure to commit any changes first. You should now be doing your development in the `gh-pages` branch (if you do `git branch` you should see `gh-pages` and there should be a `*` by it). You may also want to remove your master branch to avoid confusion (`git branch -d master`).
+    Note: make sure to commit any changes first. You should now be doing your development in the `gh-pages` branch (see wiki page on [GitHub Pages Troubleshooting](GitHubPages) for more information).
 
 4. Connect your local repository to GitHub and push to it:
 
@@ -90,4 +90,4 @@ You use the command `git pull` to bring changes from your remote repsitory (in t
 Troubleshooting
 ---------------
 
-If you are having problems, see [Troubleshooting GitHub Pages](GitHubPagesTroubleshooting) and/or [Troubleshooting Git](GitTroublshooting).
+If you are having problems, see [Troubleshooting GitHub Pages](GitHubPagesTroubleshooting) and/or [Troubleshooting Git](GitTroubleshooting).

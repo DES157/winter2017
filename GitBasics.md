@@ -8,6 +8,7 @@ There are tons of Git learning resources available online, but here are a few to
 - [Basic Git Workflow](https://www.codecademy.com/en/courses/learn-git/lessons/git-workflow/resume) is a nice short interactive tutorial, part of Codecademy's Learning Git Course.
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [Git for Beginners](http://www.sitepoint.com/git-for-beginners/)
+- [Think Like A Git](http://think-like-a-git.net/)
 
 ##### Good Style
 
