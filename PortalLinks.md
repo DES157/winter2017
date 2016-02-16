@@ -24,7 +24,7 @@ If you do not see your name here please fill out this [form](https://docs.google
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/soehnlein)	[Soehnlein, Patrice](http://soehnlein.github.io/ex1/)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/alitang)	[Tang, Alicia](http://alitang.github.io/ex1)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/atonnu)	[Tonnu, Andie](http://atonnu.github.io/ex1/)  
- [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/ertran)	[Tran, Eric](http://ertran.github.io/Ex1/index.html)  
+ [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/ertran)	[Tran, Eric](http://ertran.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/artribuz)	[Tribuzi, Antonia](http://artribuz.github.io/ex1/)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/sheilatuldanes)	[Tuldanes, Sheila](http://sheilatuldanes.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/mavillas)	[Villas, Michael](http://mavillas.github.io/ex1/)  
