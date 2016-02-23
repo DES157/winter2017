@@ -16,7 +16,7 @@ If you do not see your name here please fill out this [form](https://docs.google
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/lillianl)	[Liu, Lillian](http://lillianl.github.io/ex1)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/samanning)	[Manning, Samantha](http://samanning.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/ashleypae)	[Pae, Ashley](http://ashleypae.github.io/ex1/)  
- [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/mspaikman)	[Paik, Kaitlyn](http://mspaikman.github.io/ex1/portal.html)  
+ [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/mspaikman)	[Paik, Kaitlyn](http://mspaikman.github.io/ex1/ex1.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/agpryor)	[Pryor, Austin](http://agpryor.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/dereyes)	[Reyes, Darin](http://dereyes.github.io/ex1/index.html)  
  [![GitHub](images/GitHub-Mark-16px.png)](http:/github.com/tjrodman)	[Rodman, Tanya](http://tjrodman.github.io/ex1/index.html)  
