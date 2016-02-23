@@ -11,3 +11,7 @@ Welcome to the DES 157 wiki!
 * [Setting up GitHub Pages](GitHubPages)
 * [Git Basics](GitBasics)
 * [Best Practices](BestPractices)
+
+### Etc
+
+* [Cool Links](Resources)
