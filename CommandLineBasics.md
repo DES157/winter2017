@@ -9,6 +9,7 @@ Use __Terminal__ to access the command line on Mac. On Windows it is accessed th
 
 These resources should get you started learning the command line:
 
+- [Terminal Crash Course and Reference Sheet](http://www.bytemuse.com/post/the-terminal-crash-course-and-reference-sheet/)
 - [Navigation](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/resume) short interactive session, part of Codecademy's Learn the Command Line course.
 - [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 - [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
