@@ -5,6 +5,10 @@ __Rule #1__: If you run into problems DO NOT delete your GitHub repository and s
 
 ---
 
+##### What's with these merge conflicts?
+
+
+
 ##### Wrong root
 
 You should not have nested Git repositories (see [Best Practices](BestPractices))!

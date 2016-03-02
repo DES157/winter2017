@@ -11,7 +11,14 @@ There are tons of Git learning resources available online, but here are a few to
 - [Git for Beginners](http://www.sitepoint.com/git-for-beginners/)
 - [Visualizing Git Concepts with D3](http://www.wei-wang.com/ExplainGitWithD3/)
 - [Think Like A Git](http://think-like-a-git.net/)
-- [ntroduction to Git with Scott Chacon of GitHub @ YouTube](https://youtu.be/ZDR433b0HJY)
+- [Introduction to Git with Scott Chacon of GitHub @ YouTube](https://youtu.be/ZDR433b0HJY)
+- [Good Resources for Learning Git and GitHub
+](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+- [Tutorials @ Atlassian](https://www.atlassian.com/git/tutorials) - especially [Getting Started](https://www.atlassian.com/git/tutorials/setting-up-a-repository) and [Collaborating](https://www.atlassian.com/git/tutorials/syncing/git-remote).
+
+##### Cheat Sheets
+
+- [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
 ##### Good Style
 
@@ -44,7 +51,6 @@ Before you start, open a terminal and `cd`  to your project directory (e.g. `cd 
 
         git add .
 
-    
     Alternatively, you can individually choose which modified files you would like to add to the next commit, or which new files you would like to start tracking:
 
         git add FILE
@@ -60,6 +66,17 @@ Before you start, open a terminal and `cd`  to your project directory (e.g. `cd 
 How To
 ------
 
+### Manipulating Files
+
+GitHub Help has excellent help on [manipulating files](https://help.github.com/categories/manipulating-files/). Here are some important important tasks and how to do them...
+
+
+#### Adding Files
+
+For more information see: [Adding a file to a repository from the command line](https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/)
+
+
+
 #### Moving Files
 
 The proper way to move or rename files with git is:
@@ -67,6 +84,8 @@ The proper way to move or rename files with git is:
     git mv <source> <destination>
 
 Then `commit` and `push` as usual.
+
+For more information see: [Moving a file to a new location using the command line](https://help.github.com/articles/moving-a-file-to-a-new-location-using-the-command-line/).
 
 #### Deleting Files
 
