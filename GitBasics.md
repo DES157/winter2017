@@ -5,7 +5,7 @@ Git Basics
 There are tons of Git learning resources available online, but here are a few to start out with:
 
 -  [Try Git](https://www.codeschool.com/courses/try-git) is a nice short interactive tutorial at Code School which will introduce you to the basics.
-- [Git Reference](http://gitref.org/) - concise introduction, consider this essential reading, especially [_Getting and Creating Projects_](http://gitref.org/creating/) and [Basic Snapshotting](http://gitref.org/basic/)
+- [Git Reference](http://gitref.org/) - concise introduction, consider this essential reading, especially [_Getting and Creating Projects_](http://gitref.org/creating/) and [_Basic Snapshotting_](http://gitref.org/basic/)
 -  [Version Control With Git @ Software Carpentry](https://swcarpentry.github.io/git-novice/)
 - [Basic Git Workflow](https://www.codecademy.com/en/courses/learn-git/lessons/git-workflow/resume) is a nice short interactive tutorial, part of Codecademy's Learning Git Course.
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
