@@ -1,4 +1,4 @@
-Troubleshooting Git
+Git Troubleshooting
 ===================
 
 __Rule #1__: If you run into problems DO NOT delete your GitHub repository and start over!
@@ -11,7 +11,7 @@ __Rule #1__: If you run into problems DO NOT delete your GitHub repository and s
 
 ##### Wrong root
 
-You should not have nested Git repositories (see [Best Practices](BestPractices))!
+You should not have nested Git repositories (see [Best Practices](Best-Practices))!
 
 When in the root directory for your repository, `pwd` should give you the same output as `git rev-parse --show-toplevel`.
 

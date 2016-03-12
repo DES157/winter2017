@@ -4,9 +4,9 @@ GitHub Pages
 Host Web Pages On GitHub
 ------------------------
 
-These instructions should get your web page hosted on GitHub Pages. This process only needs to be followed once for each. After that you can update your files and your GitHub repository as described [here](GitBasics).
+These instructions should get your web page hosted on GitHub Pages. This process only needs to be followed once for each. After that you can update your files and your GitHub repository as described [here](Git-Basics).
 
-If you have not already done so you should set up Git as described [here](GitSetup).
+If you have not already done so you should set up Git as described [here](Git-Setup).
 
 
 ### Starting from scratch
@@ -71,7 +71,7 @@ The above instructions take you through the process of creating a new repository
 
 #### Updating your code
 
-Once your repository is set up and synchronized with GitHub see this simple [workflow](GitBasics) for taking snapshots of your code and pushing changes to GitHub.
+Once your repository is set up and synchronized with GitHub see this simple [workflow](Git-Basics) for taking snapshots of your code and pushing changes to GitHub.
 
 ---
 
@@ -90,4 +90,4 @@ You use the command `git pull` to bring changes from your remote repsitory (in t
 Troubleshooting
 ---------------
 
-If you are having problems, see [Troubleshooting GitHub Pages](GitHubPagesTroubleshooting) and/or [Troubleshooting Git](GitTroubleshooting).
+If you are having problems, see [Troubleshooting GitHub Pages](GitHub-Pages-Troubleshooting) and/or [Troubleshooting Git](Git-Troubleshooting).

@@ -3,7 +3,7 @@ Command Line Basics
 
 #### Accessing the command line
 
-Use __Terminal__ to access the command line on Mac. On Windows it is accessed through __Git Bash__, which is part of __Git for Windows__ and can be installed as described [here](GitSetup).
+Use __Terminal__ to access the command line on Mac. On Windows it is accessed through __Git Bash__, which is part of __Git for Windows__ and can be installed as described [here](Git-Setup).
 
 #### Learning the command line
 
