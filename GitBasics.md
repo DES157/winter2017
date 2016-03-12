@@ -21,10 +21,6 @@ There are tons of Git learning resources available online, but here are a few to
 
 - [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
-##### Good Style
-
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
-
 ##### Git for Education
 
 - [Using Git in the classroom](https://opensource.com/education/16/1/git-education-classroom)
