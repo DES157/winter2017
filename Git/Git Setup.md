@@ -1,5 +1,5 @@
-Git Basics
-==========
+Git Setup
+=========
 
 
 __Mac__ users should have `git` installed already. __Windows__ users should install [Git for Windows](https://git-scm.com/download/win) and accept the installer defaults. Make sure that "Use Git Bash only" is selected when you reach that part of the installer.

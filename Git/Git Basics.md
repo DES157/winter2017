@@ -70,7 +70,7 @@ GitHub Help has excellent help on [manipulating files](https://help.github.com/c
 
 #### Adding Files
 
-For more information see: [Adding a file to a repository from the command line](https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/)
+See [here](Git-Basics#a-simple-workflow), and for more information see [Adding a file to a repository from the command line](https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/).
 
 
 

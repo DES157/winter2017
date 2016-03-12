@@ -7,6 +7,18 @@ __Rule #1__: If you run into problems DO NOT delete your GitHub repository and s
 
 ##### What's with these merge conflicts?
 
+If your remote repository has been updated and you have made commits to your local repository before bringing it up to date by `git pull` then your branches will have diverged.
+
+You can try to fix this by:
+
+    git fetch
+    git rebase origin/<branch>
+
+Note: You should double check which branch you are on with `git branch`, and specify it in the command above.
+
+If this does not go smoothly you can back out by:
+
+    git rebase --abort
 
 
 ##### Wrong root
