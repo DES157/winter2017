@@ -15,3 +15,7 @@ Welcome to the DES 157 wiki!
 ### Etc
 
 * [Cool Links](Resources)
+
+---
+
+You can find a list of all the Wiki pages [here](_pages)
