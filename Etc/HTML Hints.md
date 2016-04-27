@@ -1,5 +1,3 @@
-
-
 ##### Semantic markup / How do I choose the right html tag?
 
 A good place to start is [HTML5 Elements Flowchart ](http://html5doctor.com/happy-1st-birthday-us/)([png](PNG Flowchart Download
@@ -9,3 +7,6 @@ While it may not impact your layour, choosing the semantically correct elements 
 
 It's also worth reading about [HTML4 Differences from HTML4](https://www.w3.org/TR/html5-diff/).
 
+##### Sectioning
+
+[The Truth About Multiple H1 Tags in the HTML5 Era](http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824) is a must read!
