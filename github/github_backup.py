@@ -40,7 +40,7 @@ for username in usernames:
         for repo_dict in repos_list:
             repo = repo_dict['name']
             print '\n', repo, '/ ~', repo_dict['size']/1000, 'MB'
-            subprocess.call(['git', 'clone', repo_dict['clone_url']], cwd=username)
+            subprocess.call(['git', 'clone', '-b', 'gh-pages', repo_dict['clone_url']], cwd=username)
             #subprocess.call(['git', 'clone', '--depth=1', '--no-single-branch', repo_dict['clone_url']], cwd=username)
     else:
         print 'GitHub API request failed!'
