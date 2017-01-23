@@ -1,21 +1,21 @@
-Welcome to the DES 157 wiki!
+---
+title: Home
+layout: default
+---
+
+# Welcome to DES 157 Supplementary Information!
 
 ### Class Management
 
-* [Interactive Grading Schedule](Grading)
-* [Student Portals](Portal-Links)
+* [Student Portals](portals)
 
 ### Resources
 
-* [How To Use the Command Line](Command-Line-Basics)
-* [Setting up GitHub Pages](GitHub-Pages)
-* [Git Basics](Git-Basics)
-* [Best Practices](Best-Practices)
+* [How To Use the Command Line](git/command_line_basics)
+* [Setting up GitHub Pages](git/github_pages)
+* [Git Basics](git/git_basics)
+* [Best Practices](git/best_practices)
 
 ### Etc
 
-* [Cool Links](Resources)
-
----
-
-You can find a list of all the Wiki pages [here](_pages)
+* [Cool Links](etc/resources)
