@@ -1,5 +1,12 @@
+---
+title: Portals
+layout: default
+---
+
 # Student Portal Links
 
+<div class="col-2-container" markdown="1">
+<div class="col-2" markdown="1">
 ## Section 001
 
 * [Adrian Ang](https://acbang.github.io/des157)
@@ -23,7 +30,9 @@
 * [Julia Wu](https://juliaw886.github.io/des157)
 * [Juliana Yau](https://julianayau.github.io/des157)
 * [Sung Yi](https://tjdalsvndn9.github.io/des157)
+</div>
 
+<div class="col-2" markdown="1">
 ## Section 002
 
 * [Arielle Cababat](https://amcababat.github.io/des157)
@@ -50,3 +59,5 @@
 * [Cameron Willment](https://cameronwillment.github.io/des157)
 * [Amy Ye](https://amy97ye.github.io/des157)
 * [Brandon Yung](https://b-yung.github.io/des157)
+</div>
+</div>

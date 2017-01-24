@@ -38,6 +38,21 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
-ul {
+
+.col-2-container {
+	display: flex;
+	text-align: center;
+}
+
+.col-2 {
+	flex: 1;  /* set flex-grow equal for all columns */
+}
+
+h1#student-portal-links {
+	text-align: center;
+}
+
+.col-2 ul {
 	list-style-type: none;
+	margin: 0 auto;  /* horizonally center unordered list in column div */
 }
