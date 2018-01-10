@@ -1,5 +1,4 @@
-GitHub Pages: Troubleshooting
-============================
+# GitHub Pages: Troubleshooting
 
 
 ##### Why is my img or other resource not showing up?

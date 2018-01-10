@@ -1,5 +1,4 @@
-Git Basics
-==========
+# Git Basics
 
 
 There are tons of Git learning resources available online, but here are a few to start out with:
@@ -28,8 +27,7 @@ There are tons of Git learning resources available online, but here are a few to
 
 
 
-A Simple Workflow
------------------
+## A Simple Workflow
   
 Once your file are on GitHub (see instructions [here](GitHubPages)) updating them is very simple. The basic process is to _add_ changes to the staging area, _commit_ the changes locally, then _push_ the updates to your remote repository (e.g. GitHub).
 
@@ -61,8 +59,7 @@ Before you start, open a terminal and `cd`  to your project directory (e.g. `cd 
 
         git push
 
-How To
-------
+## How To
 
 ### Manipulating Files
 

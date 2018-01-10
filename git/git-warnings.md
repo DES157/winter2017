@@ -1,5 +1,4 @@
-Git Warnings
-============
+# Git Warnings
 
 
 ### Wield your power wisely

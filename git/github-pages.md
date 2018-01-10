@@ -1,8 +1,6 @@
-GitHub Pages
-============
+# GitHub Pages
 
-Host Web Pages On GitHub
-------------------------
+## Host Web Pages On GitHub
 
 These instructions should get your web page hosted on GitHub Pages. This process only needs to be followed once for each. After that you can update your files and your GitHub repository as described [here](Git-Basics).
 
@@ -75,8 +73,8 @@ Once your repository is set up and synchronized with GitHub see this simple [wor
 
 ---
 
-Hints
------
+## Hints
+
 ##### Link to your page from repo
 
 At the top of your repository page on GitHub (URL like `https://github.com/USERNAME/REPO`) you can click `Edit` (_No description or website provided_. — Edit) and add the URL of the correponding web site (`https://USERNAME.github.io/REPO/index.html`)
@@ -87,7 +85,6 @@ You use the command `git pull` to bring changes from your remote repsitory (in t
 
 ---
 
-Troubleshooting
----------------
+## Troubleshooting
 
 If you are having problems, see [Troubleshooting GitHub Pages](GitHub-Pages-Troubleshooting) and/or [Troubleshooting Git](Git-Troubleshooting).

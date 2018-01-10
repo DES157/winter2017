@@ -11,10 +11,10 @@ layout: default
 
 ### Resources
 
-* [How To Use the Command Line](git/command_line_basics)
-* [Setting up GitHub Pages](git/github_pages)
-* [Git Basics](git/git_basics)
-* [Best Practices](git/best_practices)
+* [How To Use the Command Line](git/command-line-basics)
+* [Setting up GitHub Pages](git/github-pages)
+* [Git Basics](git/git-basics)
+* [Best Practices](git/best-practices)
 
 ### Etc
 

@@ -1,5 +1,4 @@
-Troubleshooting GitHub
-======================
+# Troubleshooting GitHub
 
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Help](https://help.github.com/)

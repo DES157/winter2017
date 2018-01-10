@@ -1,5 +1,4 @@
-Command Line Basics
-===================
+# Command Line Basics
 
 #### Accessing the command line
 
@@ -20,8 +19,7 @@ These resources should get you started learning the command line:
 
 ---
 
-Essential Commands
-------------------
+## Essential Commands
 
 - `ls` -- list directory contents
 - `pwd` -- return working directory name

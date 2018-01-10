@@ -1,5 +1,4 @@
-Git Best Practices
-==================
+# Git Best Practices
 
 #### Limit cruft
 

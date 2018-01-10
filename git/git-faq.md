@@ -1,5 +1,4 @@
-Git Frequently Asked Questions
-==========================
+# Git Frequently Asked Questions
 
 [[_TOC_]]
 
@@ -13,13 +12,11 @@ It is convention to use `master` as the main and often only branch in a reposito
 
 
 
-Branches
---------
+## Branches
 
 Git tracks the history
 
 
 
 
-Remotes
--------
+## Remotes

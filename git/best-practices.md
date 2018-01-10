@@ -1,9 +1,7 @@
-Best Practices
-==============
+# Best Practices
 
 
-Structuring your workspace
---------------------------
+## Structuring your workspace
 
 You should create a single directory where you will keep all of your DES 157 course work. It would suggest keeping this directory on your desktop.
 
